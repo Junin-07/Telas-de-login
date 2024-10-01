@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, rgb(134, 129, 129), rgb(1, 1, 2));
+}
+.botoes{
+    text-align: center;
+    margin-top: 25%;
+}
+.botao-1{
+    padding: 15px;
+    width: 120px;
+    background-image: linear-gradient(to right, rgb(155, 149, 149), rgb(1, 1, 2));
+    color: white; 
+    margin: 0 35px;
+    border: none;
+    cursor: pointer;
+}
+
+.botao-1:hover{
+    background-image: linear-gradient(to right, rgb(196, 185, 185), rgb(34, 34, 36));
+}
